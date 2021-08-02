@@ -10,9 +10,10 @@ I'm currently the president of the Girls Leading STEM club at my scchool, Direct
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />] 
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />] 
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />] [studio]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />] [html]
 
 [instagram]: https://www.instagram.com/charmi_kadi/
 [linkedin]: https://www.linkedin.com/in/charmikadi/
-
+[studio]: https://code.visualstudio.com/ 
+[html]: https://developer.mozilla.org/en-US/docs/Web/HTML
