@@ -9,3 +9,5 @@ I'm currently the president of the Girls Leading STEM club at my scchool, Direct
 
 <br />
 
+[instagram]: https://instagram.com/charmi_kadi
+[linkedin]:https://www.linkedin.com/in/charmikadi/
