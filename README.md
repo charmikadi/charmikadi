@@ -21,4 +21,4 @@ I'm currently the president of the Girls Leading STEM club at my scchool, Direct
 
 
 [instagram]: https://www.instagram.com/charmi_kadi/
-[linkedin]: www.linkedin.com/in/charmikadi
+[linkedin]: https://www.linkedin.com/in/charmikadi/
