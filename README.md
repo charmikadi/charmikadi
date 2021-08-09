@@ -13,7 +13,7 @@ I'm currently the president of the Girls Leading in STEM club at my scchool, Dir
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
 [![Python Badge](https://img.shields.io/badge/-Python-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=007acc)](#)
 [![HTML Badge](https://img.shields.io/badge/-HTML-3C873A?style=for-the-badge&labelColor=black&logo=HTML&logoColor=3C873A)](#)
-[![CSS3 Badge](https://img.shields.io/badge/-CSS3-FFFF00?style=for-the-badge&labelColor=black&logo=CSS3&logoColor=FFFF00)](#)
+[![CSS3 Badge](https://img.shields.io/badge/-CSS3-FFA500?style=for-the-badge&labelColor=black&logo=CSS3&logoColor=FFA500)](#)
 [![C++ Badge](https://img.shields.io/badge/-C++-e535ab?style=for-the-badge&labelColor=black&logo=C++&logoColor=FFA500)](#)
 
 <img src ="https://github-readme-stats.vercel.app/api?username=charmikadi&show_icons=true&theme=synthwave">
