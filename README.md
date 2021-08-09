@@ -15,4 +15,4 @@ I'm currently the president of the Girls Leading in STEM club at my scchool, Dir
 [![HTML Badge](https://img.shields.io/badge/-HTML-3C873A?style=for-the-badge&labelColor=black&logo=html&logoColor=3C873A)](#)
 [![C++ Badge](https://img.shields.io/badge/-C++-e535ab?style=for-the-badge&labelColor=black&logo=C++&logoColor=e535ab)](#)
 
-<img src ="[![Charmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=charmikadi)](https://github.com/charmikadi/github-readme-stats)">
+<img src ="https://github-readme-stats.vercel.app/api?username=charmikadi)">
