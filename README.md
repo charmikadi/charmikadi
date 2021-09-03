@@ -1,5 +1,5 @@
 ### Hi, I'm Charmi 👋
-I'm a high school IB student passionate about software engineering and empowering youth to pursue a career in the STEM field. 
+I'm a grade 11 IB student passionate about software engineering and empowering youth to pursue a career in the STEM field. 
 
 Currently, I am the president of the Girls Leading in STEM club at my scchool, Director of Web Development at Sci4Teens, a DECA Education Trainer, and a student researcher at UofT. 
 
