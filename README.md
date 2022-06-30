@@ -7,7 +7,8 @@ Currently, I am the president of the Girls Leading in STEM club at my scchool, D
 [![Mail Badge](https://img.shields.io/badge/-@charmi__kadi-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/charmi_kadi) 
 [![Linkedin Badge](https://img.shields.io/badge/-Charmi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charmikadi/)
 [![Mail Badge](https://img.shields.io/badge/-CharmiKadi-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kadicharmi@hotmail.com)
-([https://img.shields.io/badge/-Charmi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=red](https://img.shields.io/badge/Personal-website-red))](https://charmikadi.netlify.app/)
+https://img.shields.io/badge/dynamic/json?url=<https://charmikadi.netlify.app/>&label=<LABEL>&query=<$.DATA.SUBDATA>&color=<red>&prefix=<PREFIX>&suffix=<SUFFIX>
+
 
 
 ### Technologies
