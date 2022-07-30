@@ -1,7 +1,7 @@
 ### Hi, I'm Charmi 👋
 I'm an IB student passionate about software engineering and empowering youth to pursue a career in the STEM field. 
 
-Currently, I am the president of the Girls Leading in STEM club at my scchool, Director of Web Development at Sci4Teens, a DECA Education Trainer, and a student researcher at UofT. 
+Currently, I am the president of the Girls Leading in STEM club at my school, Director of Web Development at Sci4Teens, a DECA Education Trainer, and a student researcher at UofT. 
 
 ### Connect with me
 [![Instagram Badge](https://img.shields.io/badge/-@charmi__kadi-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/charmi_kadi) 
