@@ -1,5 +1,5 @@
 ### Hi, I'm Charmi 👋
-I'm an IB student interested in computer engineering and helping underrepresented groups to pursue a career in the STEM field. 
+I'm an incoming First Year Computer Engineering Student at the University of Waterloo. 
 
 Currently, I am the president of the Girls Leading in STEM club at my school, Vice Director at Sci4Teens, and a student researcher at UofT. 
 
