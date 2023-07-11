@@ -1,7 +1,7 @@
 ### Hi, I'm Charmi 👋
-I'm an incoming First Year Computer Engineering Student at the University of Waterloo. 
+I'm a First Year Computer Engineering Student at the University of Waterloo. 
 
-Currently, I am the president of the Girls Leading in STEM club at my school, Vice Director at Sci4Teens, and a student researcher at UofT. 
+Currently, I am seeking internships for Winter 2024.
 
 ### Connect with me
 [![Instagram Badge](https://img.shields.io/badge/-@charmi__kadi-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/charmi_kadi) 
