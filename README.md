@@ -8,7 +8,7 @@ Currently, I am seeking internships for Winter 2024.
 [![Linkedin Badge](https://img.shields.io/badge/-Charmi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charmikadi/)
 [![Mail Badge](https://img.shields.io/badge/-CharmiKadi-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kadicharmi@hotmail.com)
 [![ Website Badge](https://img.shields.io/badge/-Website-43e898?style=flat&labelColor=43e898)](https://charmikadi.netlify.app/) 
-[![ Devpost Badge](https://img.shields.io/badge/-Devpost-43e6e8?style=flat&labelColor=43e6e8)]((https://devpost.com/CharmiKadi?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav)) 
+[![ Devpost Badge](https://img.shields.io/badge/-Devpost-43e6e8?style=flat&labelColor=43e6e8)](https://devpost.com/CharmiKadi?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) 
 
 
 
