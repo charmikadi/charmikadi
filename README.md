@@ -1,15 +1,12 @@
 ### Hi there! 👋
 
-I am currently seeking Fall 2024 internships. Please feel free to reach out through my email charmikadi0@gmail.com or linkedin
+I am currently seeking Fall 2024 internships. Please feel free to reach out through my email charmikadi0@gmail.com or LinkedIn. 
 
 ### Connect with me
-[![Instagram Badge](https://img.shields.io/badge/-@charmi__kadi-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/charmi_kadi) 
-[![Linkedin Badge](https://img.shields.io/badge/-Charmi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charmikadi/)
+ [![Linkedin Badge](https://img.shields.io/badge/-Charmi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charmikadi/)
 [![Mail Badge](https://img.shields.io/badge/-CharmiKadi-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kadicharmi@hotmail.com)
 [![ Website Badge](https://img.shields.io/badge/-Website-43e898?style=flat&labelColor=43e898)](https://charmikadi.netlify.app/) 
 [![ Devpost Badge](https://img.shields.io/badge/-Devpost-43e6e8?style=flat&labelColor=43e6e8)](https://devpost.com/CharmiKadi?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) 
-
-
 
 ### Technologies
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
@@ -21,3 +18,4 @@ I am currently seeking Fall 2024 internships. Please feel free to reach out thro
 
 
 <img src ="https://github-readme-stats.vercel.app/api?username=charmikadi&show_icons=true&theme=synthwave">
+[LinkedIn](https://www.linkedin.com/in/your-charmikadi/) 
