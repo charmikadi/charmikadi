@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I am currently seeking Fall 2024 internships. Please feel free to reach out through my email charmikadi0@gmail.com or [LinkedIn](https://www.linkedin.com/in/your-charmikadi/).
+I am currently seeking Fall 2024 internships. Please feel free to reach out through my email charmikadi0@gmail.com or [LinkedIn](https://www.linkedin.com/in/charmikadi/).
 
 ### Connect with me
  [![Linkedin Badge](https://img.shields.io/badge/-Charmi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charmikadi/)
