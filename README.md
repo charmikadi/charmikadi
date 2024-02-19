@@ -1,7 +1,5 @@
-### Hi, I'm Charmi 👋
-I'm a First Year Computer Engineering Student at the University of Waterloo. 
-
-Currently, I am seeking internships for Winter 2024.
+### Hi there! 👋
+I'm Charmi, a Computer Engineering Student at the University of Waterloo. 
 
 ### Connect with me
 [![Instagram Badge](https://img.shields.io/badge/-@charmi__kadi-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/charmi_kadi) 
