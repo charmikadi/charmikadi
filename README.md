@@ -2,10 +2,6 @@
 
 I am currently seeking Fall 2024 internships. Please feel free to reach out through my email charmikadi0@gmail.com or [LinkedIn](https://www.linkedin.com/in/charmikadi/).
 
-### Connect with me
-[![ Website Badge](https://img.shields.io/badge/-Website-43e898?style=flat&labelColor=43e898)](https://charmikadi.netlify.app/) 
-[![ Devpost Badge](https://img.shields.io/badge/-Devpost-43e6e8?style=flat&labelColor=43e6e8)](https://devpost.com/CharmiKadi?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) 
-
 ### Technologies
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
