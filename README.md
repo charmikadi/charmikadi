@@ -3,8 +3,6 @@
 I am currently seeking Fall 2024 internships. Please feel free to reach out through my email charmikadi0@gmail.com or [LinkedIn](https://www.linkedin.com/in/charmikadi/).
 
 ### Connect with me
- [![Linkedin Badge](https://img.shields.io/badge/-Charmi-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/charmikadi/)
-[![Mail Badge](https://img.shields.io/badge/-CharmiKadi-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:kadicharmi@hotmail.com)
 [![ Website Badge](https://img.shields.io/badge/-Website-43e898?style=flat&labelColor=43e898)](https://charmikadi.netlify.app/) 
 [![ Devpost Badge](https://img.shields.io/badge/-Devpost-43e6e8?style=flat&labelColor=43e6e8)](https://devpost.com/CharmiKadi?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) 
 
