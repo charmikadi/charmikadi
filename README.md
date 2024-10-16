@@ -1,6 +1,5 @@
 ### Hi there! 👋
 
-I am currently seeking Fall 2024 internships. Please feel free to reach out through my email charmikadi0@gmail.com or [LinkedIn](https://www.linkedin.com/in/charmikadi/).
 
 ### Technologies
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
@@ -11,5 +10,4 @@ I am currently seeking Fall 2024 internships. Please feel free to reach out thro
 [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
 
 
-<img src ="https://github-readme-stats.vercel.app/api?username=charmikadi&show_icons=true&theme=synthwave">
- 
+  
