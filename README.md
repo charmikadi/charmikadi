@@ -1,6 +1,6 @@
 ### About Me! 
-👋 Hi I'm Charmi, a second year Computer Engineering Student at the University of Waterloo.  
-🌱 I am continuously learning new technologies to expand my skillset and develop expertise in building scalable software solutions.  
+👋 Hi I'm Charmi, a second year Computer Engineering Student at the University of Waterloo
+🌱 I have experience in backend development, AIOps, control systems engineering
 
 ### Technologies
 [![C++ Badge](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=00599C)](#)
