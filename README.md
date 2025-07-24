@@ -8,7 +8,7 @@
 [![Python Badge](https://img.shields.io/badge/-Python-007acc?style=for-the-badge&labelColor=black&logo=python&logoColor=007acc)](#)
 [![Flask Badge](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&labelColor=black&logo=flask&logoColor=FFFFFF)](#)
 [![Django Badge](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&labelColor=black&logo=django&logoColor=092E20)](#)
-[![SQL Badge](https://img.shields.io/badge/-SQL-336791?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=336791)](#)
+[![SQL Badge](https://img.shields.io/badge/SQL-336791?style=for-the-badge&labelColor=black&logo=database&logoColor=white)](#)
 [![Git Badge](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=F05032)](#)
 [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  
 [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
