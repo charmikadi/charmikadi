@@ -11,8 +11,6 @@
 ## 👋 About Me
 
 I'm **Charmi**, a **third-year Computer Engineering student** at the University of Waterloo with a passion for building scalable systems and solving complex technical challenges.
-
-I build across the stack — full-stack apps, async backends, and agentic LLM pipelines.
 ---
 
 ## 💻 Tech Stack
